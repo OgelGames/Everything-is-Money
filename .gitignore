@@ -35,3 +35,9 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Extra files and folders to ignore
+Assets/TextMesh Pro/
+TextMesh Pro.meta
+NOGIT/
+NOGIT*
