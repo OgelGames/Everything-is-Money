@@ -1,4 +1,4 @@
-# Everything is Money! - a game by OgelGames
+# Everything is Money! - by OgelGames
 
 **What's included:**
 - All game assets (scripts, sprites, animations, sounds, etc.)
@@ -15,3 +15,5 @@
 3. Open "Game.unity" (located in Assets/Scenes) in Unity.
 4. Import TextMesh Pro assets (Window > TextMeshPro > Import TMP Essential Resources)
 5. Play the game!
+
+**License:** MIT
